@@ -1,4 +1,4 @@
-const parseData = require('./parse');
+const parseData = require('./lib/parse');
 const requestify = require('node-requestify');
 const url = `http://api.openweathermap.org/data/2.5/forecast?zip=01451,us&mode=json&appid=46c7bc73ac6a9b519b290f7cc313fac1`;
 
