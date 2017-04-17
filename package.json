@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/brotholopithicus/weather-forecast-cli#readme",
   "dependencies": {
+    "chalk": "^1.1.3",
     "node-requestify": "0.0.1"
   }
 }
